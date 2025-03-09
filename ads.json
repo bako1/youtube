@@ -1,11 +1,5 @@
 [ 
-    {
-        "ads_id":1,
-        "count":1,
-        
-        "video_id":"5P6qM-6ktO0"
-
-    },
+    
 {
 "ads_id":1,
 "count":1,
@@ -39,9 +33,5 @@
         "video_id":"gtjluoTIyz8"
 
     },
-{
-        "ads_id":1,
-        "count":4,
-        "video_id":"2ccfYGF4glg"
 
-    }]
+]
