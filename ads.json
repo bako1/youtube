@@ -1,27 +1,22 @@
 [ 
-
 {
 "ads_id":1,
 "count":1,
 "video_id":"e4cPcZywJdo"
 
 },
-    
-
 {
         "ads_id":1,
         "count":2,
         "video_id":"l6Xl9zZPIKI"
 
     },
-
-
-    {
+ {
         "ads_id":1,
         "count":3,
         "video_id":"7M7qGI4pc7Y"
 
-    },
+    }
    
 
 ]
